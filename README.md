@@ -71,7 +71,7 @@ The Siamese BiLSTM is faster and extremely stable, while the BiLSTM + Attention 
 
 ---
 
-## 🚀 How to Run the Notebook
+## How to Run the Notebook
 
 1. Open the project in **Kaggle** or **Google Colab**.
 2. Upload the dataset: https://www.kaggle.com/datasets/bahushruth/legalclausedataset
