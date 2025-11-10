@@ -65,7 +65,7 @@ Both architectures learn representations of legal text pairs and classify them a
 
 ---
 
-**Conclusion:**  
+## Conclusion
 Both non-transformer models are strong baselines.  
 The Siamese BiLSTM is faster and extremely stable, while the BiLSTM + Attention captures more subtle semantic context.
 
