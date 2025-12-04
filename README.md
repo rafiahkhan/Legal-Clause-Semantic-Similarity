@@ -269,16 +269,16 @@ flowchart TD
 
 **Training Performance:**
 <div align="center">
-  <img width="2313" height="752" alt="Image" src="https://github.com/user-attachments/assets/a386c0f4-a6fb-4b06-a449-2104efded1bf" /> alt="Siamese BiLSTM Training Accuracy and Loss" width="800"/>
+  <img width="2313" height="752" alt="Image" src="https://github.com/user-attachments/assets/a386c0f4-a6fb-4b06-a449-2104efded1bf" />  
   <p><em>Training curves showing loss and accuracy progression</em></p>
 </div>
 
 **Example Predictions:**
 <div align="center">
-  <img width="1766" height="849" alt="Image" src="https://github.com/user-attachments/assets/ef59cfb1-8683-4fb1-8a63-d2af165ee2df" /> alt="Siamese BiLSTM Examples 1" width="800"/>
+  <img width="1766" height="849" alt="Image" src="https://github.com/user-attachments/assets/ef59cfb1-8683-4fb1-8a63-d2af165ee2df" /> 
   <p><em>Correct and incorrect predictions - Part 1</em></p>
   
-  <img width="2488" height="1115" alt="Image" src="https://github.com/user-attachments/assets/8a3ed41e-2a5c-49aa-b324-34667165e91a" /> alt="Siamese BiLSTM Examples 2" width="800"/>
+  <img width="2488" height="1115" alt="Image" src="https://github.com/user-attachments/assets/8a3ed41e-2a5c-49aa-b324-34667165e91a" /> 
   <p><em>Correct and incorrect predictions - Part 2</em></p>
 </div>
 
@@ -286,16 +286,16 @@ flowchart TD
 
 **Training Performance:**
 <div align="center">
-  <img width="2292" height="752" alt="Image" src="https://github.com/user-attachments/assets/f536fbca-ddb6-4a17-95af-db63873aca51" /> alt="BiLSTM Attention Training Accuracy and Loss" width="800"/>
+  <img width="2292" height="752" alt="Image" src="https://github.com/user-attachments/assets/f536fbca-ddb6-4a17-95af-db63873aca51" /> 
   <p><em>Training curves showing loss and accuracy progression</em></p>
 </div>
 
 **Example Predictions:**
 <div align="center">
-  <img width="1766" height="849" alt="Image" src="https://github.com/user-attachments/assets/af02b362-779a-4aa0-9db8-62075a9c4d19" /> alt="BiLSTM Attention Examples 1" width="800"/>
+  <img width="1766" height="849" alt="Image" src="https://github.com/user-attachments/assets/af02b362-779a-4aa0-9db8-62075a9c4d19" /> 
   <p><em>Correct and incorrect predictions - Part 1</em></p>
   
-  <img width="2514" height="1149" alt="Image" src="https://github.com/user-attachments/assets/f3464cc8-dfe6-4d4b-a64d-b7e52a0f4c0d" /> alt="BiLSTM Attention Examples 2" width="800"/>
+  <img width="2514" height="1149" alt="Image" src="https://github.com/user-attachments/assets/f3464cc8-dfe6-4d4b-a64d-b7e52a0f4c0d" /> 
   <p><em>Correct and incorrect predictions - Part 2</em></p>
 </div>
 
