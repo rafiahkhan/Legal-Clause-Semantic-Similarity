@@ -540,28 +540,28 @@ Prediction: DISSIMILAR (Probability: 0.0012)
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 👤 Author
+## Author
 
 **Rafia Khan**
-- FastID: 22i-2054
+- Gmail: rafiah.khan18@gmail.com
 - Course: Deep Learning (CS452)
 - Institution: NUCES FAST, Islamabad
 - Assignment: Assignment 2 - Legal Clause Semantic Similarity
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **Dataset**: [Kaggle Legal Clause Dataset](https://www.kaggle.com/datasets/bahushruth/legalclausedataset)
 - **Framework**: TensorFlow/Keras
@@ -570,19 +570,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📚 References
+## References
 
 1. Mueller, J., & Thyagarajan, A. (2016). Siamese Recurrent Architectures for Learning Sentence Similarity. AAAI.
 2. Bahdanau, D., Cho, K., & Bengio, Y. (2014). Neural Machine Translation by Jointly Learning to Align and Translate. arXiv preprint arXiv:1409.0473.
 3. Hochreiter, S., & Schmidhuber, J. (1997). Long Short-Term Memory. Neural Computation.
 
----
 
-<div align="center">
 
-**⭐ If you find this project helpful, please consider giving it a star! ⭐**
-
-Made with ❤️ for Legal NLP Research
 
 </div>
 
