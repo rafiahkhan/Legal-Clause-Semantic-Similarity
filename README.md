@@ -1,39 +1,10 @@
 # Legal Clause Semantic Similarity Detection – Baseline NLP Models
 
-This repository contains the implementation of **two deep learning baselines** for identifying **semantic similarity between legal clauses**.  
-All models were trained **from scratch** using **Keras/TensorFlow** without any pre-trained transformers or fine-tuned legal models.  
-This project was developed as part of **CS452 – Deep Learning Assignment 2**.
-
----
-
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 **A Deep Learning approach to identify semantic similarity between legal clauses using Siamese BiLSTM and Attention-based BiLSTM architectures**
 
-[Features](#-features) • [Architecture](#-architecture) • [Installation](#-installation) • [Usage](#-usage) • [Results](#-results) • [Flowchart](#-workflow)
-
 </div>
-
----
-
-## Table of Contents
-
-- [Overview](#-overview)
-- [Features](#-features)
-- [Architecture](#-architecture)
-- [Dataset](#-dataset)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Workflow](#-workflow)
-- [Results](#-results)
-- [Performance Metrics](#-performance-metrics)
-- [Model Comparison](#-model-comparison)
-- [Technical Details](#-technical-details)
-- [License](#-license)
 
 ---
 
@@ -298,7 +269,7 @@ flowchart TD
 
 **Training Performance:**
 <div align="center">
-  <img src="images/Siamese_BiLSTM_acc.png" alt="Siamese BiLSTM Training Accuracy and Loss" width="800"/>
+  <img width="2313" height="752" alt="Image" src="https://github.com/user-attachments/assets/7eccc1c1-9735-45fe-9f53-bd2c68a64f89" alt="Siamese BiLSTM Training Accuracy and Loss" width="800"/>
   <p><em>Training curves showing loss and accuracy progression</em></p>
 </div>
 
