@@ -117,8 +117,8 @@ Each CSV file contains:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/rafiakhan/Legal-Clause-Semantic-Similarity.git
-cd Legal-Clause-Semantic-Similarity
+git clone https://github.com/rafiakhan/Legal-Clause-Semantic-Similarity-Detection.git
+cd Legal-Clause-Semantic-Similarity-Detection
 ```
 
 2. **Install dependencies**
