@@ -551,16 +551,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## Author
-
-**Rafia Khan**
-- Gmail: rafiah.khan18@gmail.com
-- Course: Deep Learning (CS452)
-- Institution: NUCES FAST, Islamabad
-- Assignment: Assignment 2 - Legal Clause Semantic Similarity
-
----
-
 ## Acknowledgments
 
 - **Dataset**: [Kaggle Legal Clause Dataset](https://www.kaggle.com/datasets/bahushruth/legalclausedataset)
@@ -576,9 +566,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 2. Bahdanau, D., Cho, K., & Bengio, Y. (2014). Neural Machine Translation by Jointly Learning to Align and Translate. arXiv preprint arXiv:1409.0473.
 3. Hochreiter, S., & Schmidhuber, J. (1997). Long Short-Term Memory. Neural Computation.
 
-
-
-
-</div>
 
 
